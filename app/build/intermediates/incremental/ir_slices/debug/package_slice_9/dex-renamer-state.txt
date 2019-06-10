@@ -1,0 +1,4 @@
+#Mon Jun 10 10:10:44 PHT 2019
+base.0=/Users/eukrissongahid/Downloads/android-advanced-master/CustomEditText/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
